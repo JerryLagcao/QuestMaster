@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QuestMaster/static/css/main.31928dd0.css",
+    "main.js": "/QuestMaster/static/js/main.7778266c.js",
+    "static/media/TavernBackground.jpg": "/QuestMaster/static/media/TavernBackground.47294d5d500ba0dc3a7b.jpg",
+    "static/media/logo.jpg": "/QuestMaster/static/media/logo.3bdf89cf798b53787562.jpg",
+    "index.html": "/QuestMaster/index.html",
+    "main.31928dd0.css.map": "/QuestMaster/static/css/main.31928dd0.css.map",
+    "main.7778266c.js.map": "/QuestMaster/static/js/main.7778266c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31928dd0.css",
+    "static/js/main.7778266c.js"
+  ]
+}
